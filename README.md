@@ -1,4 +1,5 @@
 # ChemSCAD
+This is not my work, forked from PyPi source based on paper: [Automatic Generation of 3D-Printed Reactionware for Chemical Synthesis Digitization using ChemSCAD](https://doi.org/10.1021/acscentsci.0c01354) after finding the GitHub source was invalid (404 not found).
 
 ## Screenshots:
 
